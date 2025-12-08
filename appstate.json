@@ -1,1 +1,74 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "datr",
+        "value": "3uIyaXu5i2HQWL7OWIrGE3g6",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.453Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B775x400x2.700000047683716",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "pas",
+        "value": "61584761697139%3AxL404f6ggC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "fr",
+        "value": "0UHrCUAFXywcL1hGd.AWcnybNiK-LviFiu_UNjiEJInC-ZIk9R18Kyr9BQ1kDOvdlhRwA.BpMuLe..AAA.0.0.BpNuvx.AWeAX_eF4bvOjZ_Wn2smKmjrZyg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3009%3Btimestamp%3A1765207025",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101735918%3BT%3A29420117",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-08T16:05:09.459Z",
+        "lastAccessed": "2025-12-08T16:05:09.459Z"
+    }
+]
